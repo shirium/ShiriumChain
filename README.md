@@ -1,2 +1,2 @@
-# ShiriumChain
+# Shirium Chain
 It begins.
